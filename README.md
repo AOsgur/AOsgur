@@ -18,7 +18,7 @@
 - **Languages & Tools:** Python, Java, Bash, Software Asset Management (SAM).
 
 ### 📊 GitHub Stats
-![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOsgur&show_icons=true&theme=tokyonight)
+![Ahmet's Stats](https://github-readme-stats.vercel.app/api?username=AOsgur&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOsgur&layout=compact&theme=tokyonight)
 
 ### 📫 Let's Connect
