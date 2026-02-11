@@ -8,7 +8,7 @@
 - 🎓 **Senior Computer Engineering Student** at Yasar University.
 - 💼 **Junior DevOps Engineer (Part-time)** at Raynet.
 - 🛠️ Currently focusing on **Kubernetes (RKE2)** and Infrastructure Automation.
-- 🌱 Learning: **Data Science & Machine Learning** (Atıl Samancıoğlu) to bridge the gap between AI and DevOps.
+- 🌱 Learning: **Data Science & Machine Learning** to bridge the gap between AI and DevOps.
 - 📍 Based in Izmir, Turkey.
 
 ### 🛠 Tech Stack
