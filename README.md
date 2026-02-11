@@ -8,18 +8,21 @@
 - 🎓 **Senior Computer Engineering Student** at Yasar University.
 - 💼 **Junior DevOps Engineer (Part-time)** at Raynet.
 - 🛠️ Currently focusing on **Kubernetes (RKE2)**, **Proxmox**, and Infrastructure Automation.
-- 🌱 Learning: **Data Science & Machine Learning** to bridge the gap between AI and DevOps (MLOps).
+- 🌱 Learning: **Data Science & Machine Learning** (Atıl Samancıoğlu) to bridge the gap between AI and DevOps.
 - 📍 Based in Izmir, Turkey.
 
-### 🛠 Technical Skills
-- **Containerization & Orchestration:** Kubernetes (RKE2), Docker, Helm.
-- **Virtualization & Infrastructure:** Proxmox, Infrastructure as Code (IaC).
-- **Operating Systems:** Linux (Certified by The Linux Foundation).
-- **Languages & Tools:** Python, Java, Bash, Software Asset Management (SAM).
+### 🛠 Tech Stack
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📊 GitHub Stats
-![Ahmet's Stats](https://github-readme-stats.vercel.app/api?username=AOsgur&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOsgur&layout=compact&theme=tokyonight)
+### 🚀 Highlights
+- 🐧 **Linux Foundation Certified:** Introduction to Linux.
+- 🏗️ **Infrastructure:** Working on deploying Rayventory catalog on Proxmox VMs using Kubernetes.
+- 📦 **SAM:** Completed Software Asset Management training.
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/ahmetozgurkorkmaz](https://www.linkedin.com/in/ahmetozgurkorkmaz)
